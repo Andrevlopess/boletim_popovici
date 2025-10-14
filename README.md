@@ -1,4 +1,5 @@
 # Sistema de Entrada e Registro de Notas em CSV
+# Integrantes: Igor Aparecido 2304073, André Vitor Lopes 2504686
 
 Este projeto é um script em TypeScript que permite coletar informações de alunos via linha de comando, calcular a média das notas, verificar a situação do aluno (aprovado ou reprovado) com base em faltas e notas, e salvar esses dados em um arquivo CSV.
 
@@ -77,3 +78,4 @@ Média de notas do aluno 7.5
 
 Situação: Aprovado
 =============================
+
